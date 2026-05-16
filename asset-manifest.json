@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/galleryuseeffect/static/css/main.e115de5c.css",
+    "main.js": "/galleryuseeffect/static/js/main.9790ffb3.js",
+    "static/media/vodka6.jpg": "/galleryuseeffect/static/media/vodka6.9a423c6c6389c13f212b.jpg",
+    "static/media/p7.jpg": "/galleryuseeffect/static/media/p7.87225a7bbfb4edf617a3.jpg",
+    "static/media/vodka4.jpg": "/galleryuseeffect/static/media/vodka4.05b2aa79c8d4dceb3bc8.jpg",
+    "static/media/vodka8.jpg": "/galleryuseeffect/static/media/vodka8.4d60fabaabb8aa98db28.jpg",
+    "static/media/5.jpg": "/galleryuseeffect/static/media/5.f2cf06f716a642524a06.jpg",
+    "static/media/p5.jpg": "/galleryuseeffect/static/media/p5.eb7603e7cfa0df57801f.jpg",
+    "static/media/6.jpg": "/galleryuseeffect/static/media/6.1de9fb8c7a74a246de59.jpg",
+    "static/media/8.jpg": "/galleryuseeffect/static/media/8.e7c12ecd5f83a72cea6f.jpg",
+    "static/media/vodka5.jpg": "/galleryuseeffect/static/media/vodka5.9bf9496d1dd879dcfc24.jpg",
+    "static/media/vodka2.jpg": "/galleryuseeffect/static/media/vodka2.80b0ce3ca9d233b9b048.jpg",
+    "static/media/4.jpg": "/galleryuseeffect/static/media/4.6dcc39800fb5fcba24bf.jpg",
+    "static/media/3.jpg": "/galleryuseeffect/static/media/3.fb5a6152549aa31d94e7.jpg",
+    "static/media/2.jpg": "/galleryuseeffect/static/media/2.894780fab064d6da2e89.jpg",
+    "static/media/vodka1.jpg": "/galleryuseeffect/static/media/vodka1.59b0a4a0f2d66183bbca.jpg",
+    "static/media/p8.jpg": "/galleryuseeffect/static/media/p8.d511a1bb3f7451b764cb.jpg",
+    "static/media/p2.jpg": "/galleryuseeffect/static/media/p2.d92e14a74a3ec4bb0094.jpg",
+    "static/media/p1.jpg": "/galleryuseeffect/static/media/p1.81762165ffa53c6c40b2.jpg",
+    "static/media/1.jpg": "/galleryuseeffect/static/media/1.06b6fe4b73c50f8f615d.jpg",
+    "static/media/p3.jpg": "/galleryuseeffect/static/media/p3.04f4f5d66cef93cfce2a.jpg",
+    "static/media/p4.jpg": "/galleryuseeffect/static/media/p4.18a253930f1efaaf4979.jpg",
+    "static/media/vodka3.jpg": "/galleryuseeffect/static/media/vodka3.7998ef4657caf0f53d77.jpg",
+    "static/media/vodka7.jpg": "/galleryuseeffect/static/media/vodka7.dbe05a214a6f41b8772f.jpg",
+    "static/media/p6.jpg": "/galleryuseeffect/static/media/p6.87ae7b9ff2da55b91f2b.jpg",
+    "index.html": "/galleryuseeffect/index.html",
+    "main.e115de5c.css.map": "/galleryuseeffect/static/css/main.e115de5c.css.map",
+    "main.9790ffb3.js.map": "/galleryuseeffect/static/js/main.9790ffb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e115de5c.css",
+    "static/js/main.9790ffb3.js"
+  ]
+}
