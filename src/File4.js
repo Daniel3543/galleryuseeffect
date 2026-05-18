@@ -16,7 +16,7 @@ export default function File4() {
                       <Zoom>
                       <img src={elem.img} alt="" />
                       </Zoom>
-                      <span>{elem.price}</span>
+                      <span>$ {elem.price}</span>
                     </div>
                   </div>
                 )
